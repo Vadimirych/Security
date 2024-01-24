@@ -11,5 +11,6 @@
 587 | SMTPs | TCP | SMTP over TLS/SSL. This port is typically used for email submission by mail clients (e.g., Outlook, Thunderbird) to a mail server. It is part of the standards defined in the Simple Mail Transfer Protocol (SMTP) for email transmission. Port 587 usually requires authentication and encryption, providing a secure connection for sending emails. It is commonly used for the submission of outgoing mail
 993 | IMAPs | TCP | IMAP over TLS/SSL
 995 | POP3s | TCP | POP3 over TLS/SSL
+3306 | MySQL || Default MySQL port
 5986 | WINRM || windows remoute management protocol
 5987 | WINRM ||  Running via SSL
