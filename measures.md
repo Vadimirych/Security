@@ -3,9 +3,9 @@
 ## Security code review
 Things to consider while performing security code review
 
-**Authentication**
+### Authentication
 * How are the authentication credentials stored and transmitted, validated
   
-**Logging**
+### Logging
 * Is the logging sufficient
 * Are any PII or credentials unintentionally logged
