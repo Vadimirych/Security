@@ -11,3 +11,7 @@ Things to consider while performing security code review
 ### Logging
 * Is the logging sufficient
 * Are any PII or credentials unintentionally logged
+
+### Data Query construction
+* Is the query concatenated with user supplied input
+* Is the user supplied input properly validated/sanitized
