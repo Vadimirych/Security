@@ -2,6 +2,7 @@
 
 ## Security code review
 Things to consider while performing security code review
+
 **Authentication**
 * How are the authentication credentials stored and transmitted, validated
   
