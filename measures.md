@@ -15,3 +15,8 @@ Things to consider while performing security code review
 ### Data Query construction
 * Is the query concatenated with user supplied input
 * Is the user supplied input properly validated/sanitized
+
+### Third-party dependencies
+* Are third-party dependencies up to date
+* Any vulnerable components
+* Any violation of licenses
