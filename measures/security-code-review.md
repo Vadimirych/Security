@@ -9,6 +9,9 @@ Things to consider while performing security code review
 * Is the logging sufficient
 * Are any PII or credentials unintentionally logged
 
+## File path construction
+* Is the path constructed from the user supplied value
+
 ## Data Query construction
 * Is the query concatenated with user supplied input
 * Is the user supplied input properly validated/sanitized
