@@ -1,4 +1,4 @@
-|PORT|SERVICE| PROTOCOL | nmap --top-ports=20  | DESCRIPTION|
+|PORT|SERVICE| PROTOCOL | --top-ports=20  | DESCRIPTION|
 |---|---|---|---|---|
 21 | FTP | | Y | File Transfer Protocol
 22 | SSH | TCP | Y | Shell requires reliability
