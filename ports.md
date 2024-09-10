@@ -23,4 +23,5 @@
 5900 | VNC || Y | VNC
 5986 | WINRM || |windows remoute management protocol
 5987 | WINRM || |Running via SSL
+6379 | Redis |TCP| | Redis - fast in-memory database
 8080 | HTTP-proxy | | Y | HTTP Proxy
