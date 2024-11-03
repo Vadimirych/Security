@@ -19,7 +19,7 @@
 995 | POP3s | TCP | Y |POP3 over TLS/SSL
 1723 | PPTP | | Y | PPTP
 3306 | MySQL || Y|Default MySQL port
-3389 | MS-WBT-SERVER | | Y | MS-WBT-SERVER
+3389 | RDP (MS-WBT-SERVER) | | Y | MS-WBT-SERVER
 5900 | VNC || Y | VNC
 5986 | WINRM || |windows remoute management protocol
 5987 | WINRM || |Running via SSL
