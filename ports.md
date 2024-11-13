@@ -21,6 +21,7 @@
 3306 | MySQL || Y|Default MySQL port
 3389 | RDP (MS-WBT-SERVER) | | Y | MS-WBT-SERVER
 5900 | VNC || Y | VNC
+5985 | WinRM over HTTP || 
 5986 | WINRM || |windows remoute management protocol
 5987 | WINRM || |Running via SSL
 6379 | Redis |TCP| | Redis - fast in-memory database
